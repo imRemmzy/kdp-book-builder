@@ -1,0 +1,25 @@
+{
+  "title": "Working Title",
+  "subtitle": "An Honest Subtitle That Says What the Book Does",
+  "author": "Pen Name",
+  "language": "en",
+  "year": 2026,
+  "research_date": "September 2026",
+  "publisher": "",
+  "trim": "6x9",
+  "paper": "white",
+  "ink": "black",
+  "bleed": false,
+  "front_matter": ["manuscript/00-copyright.md"],
+  "chapters": [
+    "manuscript/01-introduction.md",
+    "manuscript/02-first-chapter.md"
+  ],
+  "back_matter": ["manuscript/90-about-the-author.md"],
+  "cover": {
+    "style": "band",
+    "palette": {"background": "#1f3a4d", "accent": "#e8a33d", "text": "#ffffff", "light": "#f4efe4"},
+    "back_text": "Two or three short paragraphs describing what the reader gets. No reviews, no quotes, no claims that aren't true.\n\nSeparate paragraphs with a blank line.",
+    "seed": 7
+  }
+}

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Build output / generated book packages
+build/
+dist/
+out/
+output/
+*.epub
+*.pdf
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
